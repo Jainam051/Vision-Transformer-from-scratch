@@ -2,7 +2,6 @@
 
 A deep learning project where I implemented a Vision Transformer (ViT) architecture **entirely from scratch** using PyTorch — without relying on pre-built attention or transformer modules.
 
-> 📅 Developed in February 2025 as a hands-on deep learning and model-building exercise.
 
 ---
 
