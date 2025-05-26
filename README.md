@@ -40,5 +40,3 @@ Stacked encoder blocks, each containing:
 
 ---
 
-## 📂 Project Structure
-
